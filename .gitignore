@@ -1,0 +1,12 @@
+#compiled object, static, and dynamic lib files
+*.o
+*.a
+*.so
+*.exe
+
+bin/
+
+.project
+
+#because you always need emacs
+*~
