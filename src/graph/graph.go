@@ -94,7 +94,7 @@ func (g *Graph) RemoveNode(node *Node) (*Node, bool) {
 	//we need to do (3) remove any edges
 	g.removeEdgesConnectedToNode(node)
 
-	return result, true
+	return result, true 
 }
 
 func (g *Graph) removeNodeFromNodeList(candidate *Node) {
