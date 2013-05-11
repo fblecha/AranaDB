@@ -1,7 +1,7 @@
 AranaDB
 =======
 
-[![Build Status](https://travis-ci.org/fblecha/AranaDB.png)](https://travis-ci.org/fblecha/AranaDB)
+[![Build Status](https://travis-ci.org/fblecha/AranaDB.png?branch=master)](https://travis-ci.org/fblecha/AranaDB)
 
 
 A graph database implemented in go.  
