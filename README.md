@@ -1,4 +1,4 @@
-AranaDB
+Ara&ntilde;aDB
 =======
 
 [![Build Status](https://travis-ci.org/fblecha/AranaDB.png?branch=master)](https://travis-ci.org/fblecha/AranaDB)
