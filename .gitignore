@@ -10,3 +10,5 @@ bin/
 
 #because you always need emacs
 *~
+#ignore the gh-pages jekyll-generated _site directory
+_site/
